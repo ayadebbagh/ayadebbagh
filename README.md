@@ -15,5 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ayadebbagh&icon=9&color=10)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/ayadebbagh/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yavs5vsyuj4yvrikqc2tjoc54e)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
