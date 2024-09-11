@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🍓Hi! I'm Aya<br>🏛️I'm a third year Software Engineering student at the University of Ottawa<br>📖I'm currently working on a book swapping app called Readius<br>👾I'm currently learning about AI through Harvard's CS50 Introduction to AI with Python</p>
+<p align="left">🍓Hi! I'm Aya<br>🏛️I'm a third year Software Engineering student at the University of Ottawa<br>📖I'm currently working on a book swapping app called Readius<br>👾I'm learning about AI through Harvard's CS50 Introduction to AI with Python</p>
 
 ###
 
